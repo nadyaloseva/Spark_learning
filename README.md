@@ -1,4 +1,4 @@
-![image](https://github.com/nadyaloseva/Spark_learning/assets/65419241/54fa7c5c-50fa-4a1a-bf65-e2761fe95bd0)# Spark_learning
+# Spark_learning
 
 Установка и настройка: 
 1.  С официального сайта: https://spark.incubator.apache.org/downloads.html устанавливаем Apache Spark, предварительно установив java и python.
