@@ -1,4 +1,4 @@
-# Spark_learning
+![image](https://github.com/user-attachments/assets/cdee6819-52aa-4f6a-815a-35fdcb70616d)# Spark_learning
 
 Установка и настройка: 
 1.  С официального сайта: https://spark.incubator.apache.org/downloads.html устанавливаем Apache Spark, предварительно установив java и python.
@@ -26,6 +26,8 @@
  11. Если все ок (можно проверить все переменные через echo), то можно запускать Spark
 Для этго переходим к папке с переменой среду SPARK_HOME: cd %SPARK_HOME%\bin
 И запускаем pyspark
-![Uploading image.png…]
+![image](https://github.com/user-attachments/assets/dca11e3b-ad31-47c4-83a6-515d9ee89a05)
+А потом работать через удобный интерпретатор (у меня VSCode)
+
 
 
