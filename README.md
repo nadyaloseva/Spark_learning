@@ -26,6 +26,6 @@
  11. Если все ок (можно проверить все переменные через echo), то можно запускать Spark
 Для этго переходим к папке с переменой среду SPARK_HOME: cd %SPARK_HOME%\bin
 И запускаем pyspark
-![Uploading image.png…]()
+![Uploading image.png…]
 
 
